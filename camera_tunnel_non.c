@@ -1,9 +1,18 @@
 /*
  ============================================================================
- Name        : load_component.c
- Author      : SonienTaegi
+ Name        : camera_tunnel_non.c
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
  Version     :
- Copyright   : Free for non profit tutorials
+ Copyright   : GPLv2
+ Description : This is tutorial of OpenMAX to play currently captured video frames.
+               Without tunneling, client handles any events of components and
+               copy camera buffer to renderer buffer if it needs.
+               Finally client requests empty buffer to renderer so renderer shows
+               the captured frame on user screen.
+
+               Without propriety communication, it costs large amount of CPU works.
+               So it is slow and not so efficient. But this technique may need when
+               modulate current captured buffer directly.
  ============================================================================
  */
 

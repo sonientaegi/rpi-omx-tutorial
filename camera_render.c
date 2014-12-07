@@ -1,9 +1,12 @@
 /*
  ============================================================================
- Name        : load_component.c
- Author      : SonienTaegi
+ Name        : camera_render.c
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
  Version     :
- Copyright   : Free for non profit tutorials
+ Copyright   : GPLv2
+ Description : This is tutorial of OMXsonien helper which support easy buffer manage.
+               Please compare this source with camera_tunnel_non.c, OMXsonien can
+               make source code much simpler than most uses demo cases.
  ============================================================================
  */
 

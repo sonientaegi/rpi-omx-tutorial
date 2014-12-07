@@ -1,8 +1,12 @@
 /*
- * OMXsonien.h
- *
- *  Created on: 2014. 11. 19.
- *      Author: SonienTaegi
+ ============================================================================
+ Name        : OMXsonien.h
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
+ Version     :
+ Copyright   : GPLv2
+ Description : OMXsonien is helper for OMX and make developer much easier to
+               handle buffer and error cases.
+ ============================================================================
  */
 
 #include <stdio.h>

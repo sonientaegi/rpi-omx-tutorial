@@ -1,10 +1,12 @@
 /*
- * common.h
- *
- *  Created on: 2014. 11. 5.
- *      Author: SonienTaegi
+ ============================================================================
+ Name        : common.h
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
+ Version     :
+ Copyright   : GPLv2
+ Description : This is common headers for rpi-omx-tutorial.
+ ============================================================================
  */
-
 #ifndef RPI_OMX_TUTORIAL_SRC_COMMON_H_
 #define RPI_OMX_TUTORIAL_SRC_COMMON_H_
 

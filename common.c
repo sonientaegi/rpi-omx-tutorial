@@ -1,3 +1,13 @@
+/*
+ ============================================================================
+ Name        : common.c
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
+ Version     :
+ Copyright   : GPLv2
+ Description : This is common sources for rpi-omx-tutorial.
+ ============================================================================
+ */
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdarg.h>

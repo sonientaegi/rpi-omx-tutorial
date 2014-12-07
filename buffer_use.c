@@ -1,10 +1,12 @@
 /*
  ============================================================================
- Name        : load_component.c
- Author      : SonienTaegi
+ Name        : buffer_allocate.c
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
  Version     :
- Copyright   : Any free opened source codes are for tutorial purpose. User can use them freely.
- Description : Hello World in C, Ansi-style
+ Copyright   : GPLv2
+ Description : This is tutorial of OpenMAX to setup buffer for component using
+                 OMX_UseBuffer
+               command.
  ============================================================================
  */
 

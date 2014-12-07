@@ -1,9 +1,12 @@
 /*
  ============================================================================
- Name        : load_component.c
- Author      : SonienTaegi
+ Name        : camera_render_fps.c
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
  Version     :
- Copyright   : Free for non profit tutorials
+ Copyright   : GPLv2
+ Description : This is implemented version of camera_render.c.
+               This program support counting FPS so user may use this program
+               for measuring performance limit of non-tunneling camera rendering.
  ============================================================================
  */
 

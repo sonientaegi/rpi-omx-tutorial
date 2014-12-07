@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Name        : load_component.c
- Author      : SonienTaegi
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
  Version     :
- Copyright   : Any free opened source codes are for tutorial purpose. User can use them freely.
- Description : Hello World in C, Ansi-style
+ Copyright   : GPLv2
+ Description : This is basic tutorial of OpenMAX to load component.
  ============================================================================
  */
 

@@ -1,9 +1,10 @@
 /*
  ============================================================================
- Name        : load_component.c
- Author      : SonienTaegi
+ Name        : camera_tunnel.c
+ Author      : SonienTaegi ( https://github.com/SonienTaegi/rpi-omx-tutorial )
  Version     :
- Copyright   : Free for non profit tutorials
+ Copyright   : GPLv2
+ Description : This is tutorial of OpenMAX to setup tunneling between Camera and Renderer.
  ============================================================================
  */
 
